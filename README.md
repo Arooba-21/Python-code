@@ -93,5 +93,3 @@ The goal of this repository is to showcase my **learning journey in Python for D
 * Understanding how to clean, manipulate, and analyze datasets
 * Applying skills to a **real dataset (Titanic)** for practical insights
 
-
-👉 Do you want me to also create a **short 1-line description for each notebook** (like a table) so recruiters quickly see what each file does?
